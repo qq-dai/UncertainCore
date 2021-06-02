@@ -4,7 +4,7 @@ Usage:
 	make
 	./uncertain-core [filename] [alg] [eta] [threads]
 example:
-	./uncertain-core youtube.bin 6
+	./uncertain-core core_num.bin 6
 
 
 If an error 'error while loading shared libraries: libgsl.so.*' occurs, using the following commands to fix it.
